@@ -1,0 +1,4 @@
+deadline_success_ratio,execution_time,mean_best_effort,mean_deadline,median_best_effort,median_deadline,no_batches,no_best_effort,no_deadline,no_workers,scheduler,seed,std_best_effort,std_deadline,strictness,total_time
+0.0,334.222057104,1.0,1.0,1.0,1.0,2800.0,2568.0,195.0,200.0,deadline,1.0,0.0,0.0,0.0,2400.0
+0.502564102564,334.222057104,1.0,1.0,1.0,1.0,2800.0,2568.0,195.0,200.0,deadline,1.0,0.0,0.0,0.2,2400.0
+0.753846153846,334.222057104,1.0,1.0,1.0,1.0,2800.0,2568.0,195.0,200.0,deadline,1.0,0.0,0.0,0.5,2400.0
